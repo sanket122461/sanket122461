@@ -44,7 +44,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code"/>
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/windsurf.svg" width="40" title="Windsurf"/>
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cursor.svg" width="40" title="Cursor"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codex.svg" width="40" title="Codex"/>
+
 
 <!-- Version control -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
@@ -61,13 +61,12 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40" title="Apache NetBeans"/>
 
 <!-- Cloud & Hosting -->
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/amazonaws.svg" width="40" title="AWS"/>
+
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/hostinger.svg" width="40" title="Hostinger"/>
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cloudflare.svg" width="40" title="Cloudflare"/>
 
 <!-- Analytics & Productivity -->
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftpowerbi.svg" width="40" title="Power BI"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftexcel.svg" width="40" title="Excel"/>
+
 
 <!-- File transfer -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" width="40" title="FileZilla"/>
