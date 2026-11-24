@@ -4,9 +4,9 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Sanket+Kapase;Full+Stack+Web+Developer;React.js+%7C+Node.js+%7C+Laravel+%7C+PHP;Building+High-Impact+Web+Applications" alt="Typing SVG" />
   </a>
   <p align="center">
-    <strong>📍 Pune, India</strong> &nbsp;|&nbsp; 
-    <strong>🎓 BE in Engineering (SPPU, 2021–2025)</strong> &nbsp;|&nbsp; 
-    <strong>💼 Full Stack Developer at Aspire TechSoft</strong>
+    <strong> Pune, India</strong> &nbsp;|&nbsp; 
+    <strong> BE in Engineering (SPPU, 2021–2025)</strong> &nbsp;|&nbsp; 
+    <strong>Full Stack Developer at Aspire TechSoft</strong>
   </p>
   <!-- Quick Action Badges -->
   <p align="center">
@@ -25,14 +25,14 @@
   </p>
 </div>
 ---
-### 🚀 About Me
-Full Stack Web Developer with **1+ year of professional experience** delivering end-to-end web architectures, responsive interfaces, scalable database systems, and robust production deployments.
-- 🏢 **Currently working at:** Aspire TechSoft Pvt. Ltd. (Pune)
-- 🎓 **Education:** Government College Of Engineering And Research, Avasari Khurd (SPPU, 2021–2025)
-- 💡 **Core Expertise:** End-to-end Web Architecture, RESTful API Development, Production CI/CD & Cloud Hosting, Database Schema Design, Third-party Integrations (WhatsApp, SMTP, GTM)
-- 🎯 **Delivered:** Independently built and deployed **5 live production websites** and **3 web applications**
+ About Me
+Full Stack Web Developer with 1+ year of professional experience** delivering end-to-end web architectures, responsive interfaces, scalable database systems, and robust production deployments.
+- Currently working at: Aspire TechSoft Pvt. Ltd. (Pune)
+- Education: Government College Of Engineering And Research, Avasari Khurd (SPPU, 2021–2025)
+- Core Expertise:End-to-end Web Architecture, RESTful API Development, Production CI/CD & Cloud Hosting, Database Schema Design, Third-party Integrations (WhatsApp, SMTP, GTM)
+- Delivered: Independently built and deployed **5 live production websites** and **3 web applications**
 ---
-### 📊 GitHub Activity & Stats
+  GitHub Activity & Stats
 <div align="center">
   <table>
     <tr>
@@ -53,7 +53,7 @@ Full Stack Web Developer with **1+ year of professional experience** delivering 
   </table>
 </div>
 ---
-### 🌐 Featured Production Projects
+###  Featured Production Projects
 Here are some real-world web platforms and systems designed, built, and deployed by me:
 <table>
   <tr>
@@ -72,25 +72,25 @@ Here are some real-world web platforms and systems designed, built, and deployed
     <td><code>Full Stack</code> <code>Responsive UI</code> <code>MySQL</code></td>
   </tr>
   <tr>
-    <td><a href="https://skillaspire.net/"><strong>🎓 Skill Aspire</strong></a></td>
+    <td><a href="https://skillaspire.net/"><strong>Skill Aspire</strong></a></td>
     <td>EdTech training portal with courses catalog, enrollment workflows, and student inquiry handling.</td>
     <td><code>PHP</code> <code>JavaScript</code> <code>REST APIs</code></td>
   </tr>
   <tr>
-    <td><a href="https://aspiretechsoft.in/"><strong>💼 Aspire TechSoft</strong></a></td>
+    <td><a href="https://aspiretechsoft.in/"><strong> Aspire TechSoft</strong></a></td>
     <td>Official company portal highlighting enterprise services, portfolio, client testimonials, and CRM leads.</td>
     <td><code>Laravel</code> <code>Tailwind</code> <code>MySQL</code></td>
   </tr>
   <tr>
-    <td><a href="https://vedevs.com/"><strong>⚡ VeDevs</strong></a></td>
+    <td><a href="https://vedevs.com/"><strong> VeDevs</strong></a></td>
     <td>Tech solutions & developer portfolio platform built for high-performance delivery and responsive UX.</td>
     <td><code>React.js</code> <code>Node.js</code> <code>API Integration</code></td>
   </tr>
 </table>
 ---
-### 💻 Skills & Technologies
+ 💻 Skills & Technologies
 <div align="left">
-#### 🎨 Frontend Development
+Frontend Development
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -102,7 +102,7 @@ Here are some real-world web platforms and systems designed, built, and deployed
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
 </p>
-#### ⚙️ Backend Development & APIs
+ Backend Development & APIs
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
