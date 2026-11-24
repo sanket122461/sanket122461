@@ -26,7 +26,7 @@
 </div>
 ---
  About Me
-Full Stack Web Developer with 1+ year of professional experience** delivering end-to-end web architectures, responsive interfaces, scalable database systems, and robust production deployments.
+Full Stack Web Developer with 1+ year of professional experience  delivering end-to-end web architectures, responsive interfaces, scalable database systems, and robust production deployments.
 - Currently working at: Aspire TechSoft Pvt. Ltd. (Pune)
 - Education: Government College Of Engineering And Research, Avasari Khurd (SPPU, 2021–2025)
 - Core Expertise:End-to-end Web Architecture, RESTful API Development, Production CI/CD & Cloud Hosting, Database Schema Design, Third-party Integrations (WhatsApp, SMTP, GTM)
@@ -62,12 +62,12 @@ Here are some real-world web platforms and systems designed, built, and deployed
     <th width="20%">Tech Stack</th>
   </tr>
   <tr>
-    <td><a href="https://aspireit.net/"><strong>🌐 Aspire IT</strong></a></td>
+    <td><a href="https://aspireit.net/"><strong> Aspire IT</strong></a></td>
     <td>Corporate IT solutions web platform with dynamic services, CMS, and optimized lead tracking.</td>
     <td><code>PHP</code> <code>Laravel</code> <code>MySQL</code> <code>Bootstrap</code></td>
   </tr>
   <tr>
-    <td><a href="https://jjyot.org/"><strong>🌟 JJYOT Organization</strong></a></td>
+    <td><a href="https://jjyot.org/"><strong>JJYOT Organization</strong></a></td>
     <td>Community and NGO portal built for events, activities, secure online donations, and member reach.</td>
     <td><code>Full Stack</code> <code>Responsive UI</code> <code>MySQL</code></td>
   </tr>
@@ -88,7 +88,7 @@ Here are some real-world web platforms and systems designed, built, and deployed
   </tr>
 </table>
 ---
- 💻 Skills & Technologies
+  Skills & Technologies
 <div align="left">
 Frontend Development
 <p>
@@ -112,13 +112,13 @@ Frontend Development
   <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/JSON_&_AJAX-4B5563?style=for-the-badge&logo=json&logoColor=white" />
 </p>
-#### 🗄️ Database & Schema Design
+####  Database & Schema Design
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL_Queries-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Database_Architecture-008080?style=for-the-badge&logo=databricks&logoColor=white" />
 </p>
-#### 🛠️ Tools, Deployment & Cloud
+####  Tools, Deployment & Cloud
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -132,7 +132,7 @@ Frontend Development
 </p>
 </div>
 ---
-### 💡 Tech Stack Icon Gallery
+###  Tech Stack Icon Gallery
 <p align="center">
   <!-- Frontend Icons -->
   <a href="https://skillicons.dev">
@@ -140,16 +140,14 @@ Frontend Development
   </a>
 </p>
 ---
-### 📈 GitHub Contribution Graph & Activity
+###  GitHub Contribution Graph & Activity
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanket122461&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph"/>
 </div>
 ---
-### 📬 Get In Touch
+###  Get In Touch
 <div align="center">
-| 📱 Phone | 📧 Email | 💼 LinkedIn | 🌐 Location |
-| :---: | :---: | :---: | :---: |
-| [+91 8766910241](tel:+918766910241) | [sanketkapse709@gmail.com](mailto:sanketkapse709@gmail.com) | [sanketkapse709](https://www.linkedin.com/in/sanketkapse709/) | Pune, Maharashtra (411052) |
+ [+91 8766910241](tel:+918766910241) | [sanketkapse709@gmail.com](mailto:sanketkapse709@gmail.com) | [sanketkapse709](https://www.linkedin.com/in/sanketkapse709/) | Pune, Maharashtra (411052) |
 <br/>
 <a href="https://github.com/sanket122461">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,35,42&height=120&section=footer" width="100%" alt="footer"/>
