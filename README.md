@@ -74,17 +74,17 @@ Here are some real-world web platforms and systems designed, built, and deployed
   <tr>
     <td><a href="https://skillaspire.net/"><strong>Skill Aspire</strong></a></td>
     <td>EdTech training portal with courses catalog, enrollment workflows, and student inquiry handling.</td>
-    <td><code>PHP</code> <code>JavaScript</code> <code>REST APIs</code></td>
+    <td><code>React</code> <code>JavaScript</code> <code>REST APIs</code></td>
   </tr>
   <tr>
     <td><a href="https://aspiretechsoft.in/"><strong> Aspire TechSoft</strong></a></td>
     <td>Official company portal highlighting enterprise services, portfolio, client testimonials, and CRM leads.</td>
-    <td><code>Laravel</code> <code>Tailwind</code> <code>MySQL</code></td>
+    <td><code>Laravel</code> <code>CSS</code> <code>MySQL</code></td>
   </tr>
   <tr>
     <td><a href="https://vedevs.com/"><strong> VeDevs</strong></a></td>
     <td>Tech solutions & developer portfolio platform built for high-performance delivery and responsive UX.</td>
-    <td><code>React.js</code> <code>Node.js</code> <code>API Integration</code></td>
+    <td><code>JS</code> <code>PHP</code> <code>API Integration</code></td>
   </tr>
 </table>
 ---
