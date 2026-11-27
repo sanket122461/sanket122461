@@ -140,12 +140,12 @@ Frontend Development
   </a>
 </p>
 ---
-###  GitHub Contribution Graph & Activity
+ GitHub Contribution Graph & Activity
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanket122461&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph"/>
 </div>
 ---
-###  Get In Touch
+ Get In Touch
 <div align="center">
  [+91 8766910241](tel:+918766910241) | [sanketkapse709@gmail.com](mailto:sanketkapse709@gmail.com) | [sanketkapse709](https://www.linkedin.com/in/sanketkapse709/) | Pune, Maharashtra (411052) |
 <br/>
