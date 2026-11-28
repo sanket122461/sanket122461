@@ -139,7 +139,7 @@ Tech Stack Icon Gallery
   </a>
 </p>
 ---
- GitHub Contribution Graph & Activity
+### GitHub Contribution Graph & Activity
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanket122461&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph"/>
 </div>
