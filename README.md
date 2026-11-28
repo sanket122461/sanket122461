@@ -53,7 +53,7 @@ Full Stack Web Developer with 1+ year of professional experience  delivering end
   </table>
 </div>
 ---
-###  Featured Production Projects
+Featured Production Projects
 Here are some real-world web platforms and systems designed, built, and deployed by me:
 <table>
   <tr>
@@ -112,13 +112,13 @@ Frontend Development
   <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/JSON_&_AJAX-4B5563?style=for-the-badge&logo=json&logoColor=white" />
 </p>
-####  Database & Schema Design
+Database & Schema Design
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL_Queries-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Database_Architecture-008080?style=for-the-badge&logo=databricks&logoColor=white" />
 </p>
-####  Tools, Deployment & Cloud
+Tools, Deployment & Cloud
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -131,8 +131,7 @@ Frontend Development
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 </div>
----
-###  Tech Stack Icon Gallery
+Tech Stack Icon Gallery
 <p align="center">
   <!-- Frontend Icons -->
   <a href="https://skillicons.dev">
