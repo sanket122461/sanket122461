@@ -207,7 +207,7 @@ const developer = {
 ## Contribution Graph
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph" />
+  <img src="https://ghchart.rshah.org/38BDF8/sanket122461" width="100%" alt="Sanket Kapase GitHub Contribution Chart" />
 </div>
 
 <!--
